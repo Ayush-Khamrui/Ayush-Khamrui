@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking to work on **Projects on Python and React**
 
-- 💬 Ask me about **anything related to Python , Projects in Python , and Machine Learning**
+- 💬 Ask me **anything related to Python , Projects in Python , and Machine Learning**
 
 - 📫 How to reach me **Khamruiasok@gmail.com**
 
