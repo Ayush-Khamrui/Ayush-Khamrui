@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ayush Khamrui</h1>
-<h3 align="center">A budding <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> developer and engineer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></h3>
+<h3 align="center">A budding developer and engineer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush-Khamrui&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush-Khamrui" /> </p>
