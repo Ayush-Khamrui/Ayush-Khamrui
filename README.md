@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayush-Khamrui&theme=dracula" alt="Ayush-Khamrui" /></a> </p>
 
-- 🔭 I’m currently working on **Python and Machine Learning **
+- 🔭 I’m currently working on **JAVA Full Stack Using React **
 
 - 🌱 I’m currently learning **Development using react **
 
@@ -14,9 +14,9 @@
 
 <!---👨‍💻 You can also check out my portfolio at [LINK OF GOOGLE ](lINK OF GITHUB)--> 
 
-- 🤝 I’m looking to work on **Projects on Python and React**
+- 🤝 I’m looking to work on **Projects on JAVA and React Js**
 
-- 💬 Ask me **anything related to Python , Projects in Python , and Machine Learning**
+- 💬 Ask me **anything related to JAVA, Python , React Js, and Machine Learning**
 
 - 📫 How to reach me **Khamruiasok@gmail.com**
 
