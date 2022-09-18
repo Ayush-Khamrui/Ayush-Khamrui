@@ -6,9 +6,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayush-Khamrui&theme=dracula" alt="Ayush-Khamrui" /></a> </p>
 
-- 🔭 I’m currently working on  **JAVA Full Stack Using React **
+- 🔭 I’m currently working on  **JAVA Full Stack Using React**
 
-- 🌱 I’m currently learning  **Development using react **
+- 🌱 I’m currently learning  **Development using react**
 
 - 👯 I’m looking to collaborate on **[LinkedIn- Ayush Khamrui](https://www.linkedin.com/in/ayush-khamrui/)**
 
