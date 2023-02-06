@@ -14,7 +14,7 @@
 
 <!---👨‍💻 You can also check out my portfolio at [LINK OF GOOGLE ](lINK OF GITHUB)--> 
 
-- 🤝 I’m looking to work on **Projects on JAVA and React Js**
+- 🤝 I’m looking to work on **Projects on JAVA, Python and React Js**
 
 - 💬 Ask me **anything related to JAVA, Python , React Js, and Machine Learning**
 
