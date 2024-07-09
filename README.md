@@ -1,12 +1,12 @@
 ### <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ayush Khamrui</h1>
-<h3 align="center">A budding developer and engineer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></h3>
+<h3 align="center">GenAI Developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush-Khamrui&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush-Khamrui" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayush-Khamrui&theme=dracula" alt="Ayush-Khamrui" /></a> </p>
 
-- 🔭 I’m currently working on  **JAVA Full Stack Using React**
+- 🔭 I’m currently working on  **Python Full Stack with GenAI**
 
 - 🌱 I’m currently learning  **Development using react**
 
@@ -14,9 +14,9 @@
 
 <!---👨‍💻 You can also check out my portfolio at [LINK OF GOOGLE ](lINK OF GITHUB)--> 
 
-- 🤝 I’m looking to work on **Projects on JAVA, Python and React Js**
+- 🤝 I’m looking to work on **Projects on GenAI, Python and React Js**
 
-- 💬 Ask me **anything related to JAVA, Python , React Js, and Machine Learning**
+- 💬 Ask me **anything related to Python , JAVA, React Js, and Machine Learning**
 
 - 📫 How to reach me **Khamruiasok@gmail.com**
 
